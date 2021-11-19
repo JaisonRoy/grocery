@@ -2,30 +2,33 @@
     "items":[
         {
           "serialNumber":1,
-          "name":"Rice",
-          "quantity":10,
-          "unit":"Kg",
-          
-          "Notes":"Red Rice(Matta)"
-          
-        },
-        {
-            "serialNumber":2,
-          "name":"Wheat",
-          "quantity":2,
-          "unit":"Kg",
-          
-          "Notes":"Ashirvad Atta",
-          "Bought":"<input type='checkbox'>"
-        },
-        {
-            "serialNumber":3,
           "name":"Carrot",
           "quantity":1,
           "unit":"Kg",
           
           "Notes":"Fresh",
           "Bought":"<input type='checkbox'>"
+          
+        },
+        {
+            "serialNumber":2,
+            "name":"Butter",
+            "quantity":100,
+            "unit":"gm",
+          
+            "Notes":"Amul",
+            "Bought":"<input type='checkbox'>"
+        },
+        {
+            "serialNumber":3,
+            "name":"Chilly powder",
+            "quantity":200,
+            "unit":"gm",
+            
+            "Notes":"Kashmiri chilli",
+            "Bought":"<input type='checkbox'>"
+            
+          
         },
         {
             "serialNumber":4,
@@ -38,21 +41,22 @@
         },
         {
             "serialNumber":5,
-          "name":"Green peas",
-          "quantity":1,
+            "name":"Rice",
+          "quantity":10,
           "unit":"Kg",
           
-          "Notes":"Packet",
-          "Bought":"<input type='checkbox'>"
+          "Notes":"Red Rice(Matta)"
+          
         },
         {
             "serialNumber":6,
-          "name":"Butter",
-          "quantity":100,
-          "unit":"gm",
-        
-          "Notes":"Amul",
-          "Bought":"<input type='checkbox'>"
+            "name":"Wheat",
+            "quantity":2,
+            "unit":"Kg",
+            
+            "Notes":"Ashirvad Atta",
+            "Bought":"<input type='checkbox'>"
+          
         },
         {
             "serialNumber":7,
@@ -78,17 +82,17 @@
           "quantity":100,
           "unit":"gm",
           
-          "Notes":"Nirapara for biriyani",
+          "Notes":"Nirapara",
           "Bought":"<input type='checkbox'>"
         },
         {
             "serialNumber":10,
-          "name":"Chilly powder",
-          "quantity":200,
-          "unit":"gm",
-          
-          "Notes":"Kashmiri chilli",
-          "Bought":"<input type='checkbox'>"
+            "name":"Green peas",
+            "quantity":1,
+            "unit":"Kg",
+            
+            "Notes":"Packet",
+            "Bought":"<input type='checkbox'>"
         }
     ]
 }

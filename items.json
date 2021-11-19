@@ -2,22 +2,23 @@
     "items":[
         {
           "serialNumber":1,
-          "name":"Potato",
-          "quantity":2,
-          "unit":"Kg",
+          "name":"Milk",
+          "quantity":1,
+          "unit":"L",
           
-          "Notes":"Baby potatoes",
+          "Notes":"milma",
           "Bought":"<input type='checkbox'>"
           
         },
         {
             "serialNumber":2,
-            "name":"Butter",
-            "quantity":100,
-            "unit":"gm",
-            
-            "Notes":"Amul",
-            "Bought":"<input type='checkbox'>"
+            "name":"Washing powder",
+          "quantity":1,
+          "unit":"Kg",
+          
+          "Notes":"Ujala",
+          "Bought":"<input type='checkbox'>"
+         
         },
         {
             "serialNumber":3,
@@ -30,6 +31,34 @@
         },
         {
             "serialNumber":4,
+            "name":"Chilly powder",
+          "quantity":200,
+          "unit":"gm",
+        
+          "Notes":"Kashmiri chilli",
+          "Bought":"<input type='checkbox'>"
+          
+        },
+        {
+            "serialNumber":5,
+          "name":"Green peas",
+          "quantity":1,
+          "unit":"Kg",
+          
+          "Notes":"Packet",
+          "Bought":"<input type='checkbox'>"
+        },
+        {
+            "serialNumber":6,
+          "name":"Butter",
+          "quantity":100,
+          "unit":"gm",
+          
+          "Notes":"Amul",
+          "Bought":"<input type='checkbox'>"
+        },
+        {
+            "serialNumber":7,
             "name":"Rice",
             "quantity":10,
             "unit":"Kg",
@@ -38,42 +67,13 @@
           
         },
         {
-            "serialNumber":5,
-            "name":"Chilly powder",
-          "quantity":200,
-          "unit":"gm",
-          
-          "Notes":"Kashmiri chilli powder if available",
-          "Bought":"<input type='checkbox'>"
-         
-        },
-        {
-            "serialNumber":6,
-            "name":"Wheat",
-          "quantity":2,
-          "unit":"Kg",
-          
-          "Notes":"Ashirvad Atta",
-          "Bought":"<input type='checkbox'>"
-         
-        },
-        {
-            "serialNumber":7,
-          "name":"Milk",
-          "quantity":1,
-          "unit":"L",
-          
-          "Notes":"Ashirvad Atta",
-          "Bought":"<input type='checkbox'>"
-        },
-        {
             "serialNumber":8,
-          "name":"Washing powder",
-          "quantity":1,
-          "unit":"Kg",
-          
-          "Notes":"Sunlight/Ujala",
-          "Bought":"<input type='checkbox'>"
+            "name":"Wheat",
+            "quantity":2,
+            "unit":"Kg",
+            
+            "Notes":"Ashirvad Atta",
+            "Bought":"<input type='checkbox'>"
         },
         {
             "serialNumber":9,
@@ -81,16 +81,16 @@
           "quantity":100,
           "unit":"gm",
           
-          "Notes":"Aachi/Nirapara for biriyani",
+          "Notes":"Nirapara for biriyani",
           "Bought":"<input type='checkbox'>"
         },
         {
             "serialNumber":10,
-            "name":"Green peas",
-            "quantity":1,
+            "name":"Potato",
+            "quantity":2,
             "unit":"Kg",
             
-            "Notes":"Packet",
+            "Notes":"fresh potatoes",
             "Bought":"<input type='checkbox'>"
         }
     ]
